@@ -1,0 +1,8 @@
+test_stack_*
+test_queue_*
+test_expr_*
+bench_*
+test_contacts
+calc
+*.o
+*.exe
